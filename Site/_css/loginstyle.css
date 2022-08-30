@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&family=Playfair+Display:wght@400;500;700&display=swap');
+
+body {
+    margin: 0;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+body * {
+    box-sizing: border-box;
+}
+
+.main {
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(180deg, rgba(0,0,0,1) 30%, rgba(27,0,32,1) 70%, rgba(48,0,48,1) 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.left_login {
+    width: 50vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.left_login h1 {
+    color: #ffffff;
+    font-size: 3vw;
+}
+
+.left_image {
+    width: 35vw;
+}
+
+.right_login {
+    width: 50vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card_login {
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 30px 35px;
+    background: #290636;
+    border-radius: 20px;
+    box-shadow: 0px 10px 40px #00000056;
+}
+
+.card_login h1 {
+    color: white;
+    font-weight: 800;
+    margin: 0;
+}
+
+.login_text {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    margin: 10px 0;
+    width: 100%;
+}
+
+.login_text input{
+    width: 100%;
+    border: none;
+    border-radius: 10px;
+    padding: 15px;
+    background-color: #420957;
+    color: white;
+    font-size: 12pt;
+    box-shadow: 0px 10px 40px #00000056;
+    outline: none;
+    box-sizing: border-box;
+}
+
+.login_text label {
+    color: white;
+    margin-bottom: 10px;
+}
+
+.login_text input::placeholder {
+    color: rgb(182, 182, 182);
+}
+
+.botao_login {
+    width: 100%;
+    padding: 16px 0px;
+    margin: 25px;
+    border: none;
+    border-radius: 8px;
+    outline: none;
+    text-transform: uppercase;
+    font-weight: 800;
+    letter-spacing: 3px;
+    color: white;
+    background: #420957;
+    cursor: pointer;
+    box-shadow: 0px 10px 40px -12px #00000056;
+    transition: all 3s;
+}
+
+.botao_login:hover {
+    background-color: #5d0d7a;
+    transition: all 0.8s;
+}
+
+a {
+    text-decoration: none;
+    list-style-type: none;
+    color: white;
+    display: block;
+}
+
+
+@media only screen and (max-width: 950px){
+    .card_login {
+        width:85%
+    }
+}
+
+@media only screen and (max-width: 600px){
+    .main {
+        flex-direction: column;
+    }
+    .left_login h1 {
+        display: none;
+    }
+
+    .left_login {
+        width: 100%;
+        height: auto;
+    }
+
+    .right_login {
+        width: 100%;
+        height: auto;
+    }
+
+    .left_image {
+        width: 50vh;
+    }
+
+    .card_login {
+        width: 90%;
+    }
+
+}
