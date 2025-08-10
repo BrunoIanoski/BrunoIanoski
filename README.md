@@ -1,7 +1,8 @@
 # 😎 Olá, bom ter você por aqui!
 <div id="links">
   <a href = "(https://github.com/BrunoIanoski)"/>
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Badge" width="50px"/>
+  <a href = "https://www.linkedin.com/in/bruno-manika-ianoski-317ba6248/"/>  
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Badge" width="50px"/>
   </a>
   <a href = "https://www.instagram.com/bruno_ianoski/"/>
   <img src="https://www.itabirito.mg.leg.br/imagens/insta.png/image" alt="Instagram Link" width="51px" margin-right="5px"/>
