@@ -1,6 +1,6 @@
 # 😎 Olá, bom ter você por aqui!
 <div id="links">
-  <a href = "[https://github.com/risoflorais](https://github.com/BrunoIanoski)"/>
+  <a href = "(https://github.com/BrunoIanoski)"/>
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Badge" width="50px"/>
   </a>
   <a href = "https://www.instagram.com/bruno_ianoski/"/>
