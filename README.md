@@ -12,7 +12,7 @@
 Sou programador iniciante, gosto tanto de back-end quanto do fron-end, e tenho o objetivo de desenvolver algum jogo mesmo que demore um pouco 😁.
 
 - Curto Stardew Valley e tenho ele como base para projeto no futuro;
-- 👩‍💻 Prefiro Back-end e atualmente estou aprendendo sobre python na universidade;
+- 👩‍💻 Prioridade em Back-end e atualmente estou estudando python e C;
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
