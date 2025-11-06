@@ -18,7 +18,7 @@ Sou programador iniciante, gosto tanto de back-end quanto do fron-end, e tenho o
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40"height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/376344/python.svg" title="PYTHON" alt="CSS" width="50"height="50"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" title="C" alt="CSS" width="50"height="50"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/376344/python.svg" title="PYTHON" alt="CSS" width="80"height="80"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" title="C" alt="CSS" width="40"height="50"/>&nbsp;
  </div>
  
